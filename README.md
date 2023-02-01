@@ -1,5 +1,5 @@
 # Portfolio_Resume
-Portfolio Page Built with React.js and Typescript
+Portfolio Page Built with HTML / CSS /JS
 
 Hey there! I'm Elias
 👨🏻‍💻 About Me
@@ -11,16 +11,8 @@ Hey there! I'm Elias
 * 🥅   2022 Goals: Learn more about Web Development and Web application's security
 🛠 Tech Stack
 * 💻   Python | Java
-* 🌐   ReactJS | Next.js | JavaScript | TypeScript | VueJS
+* 🌐   ReactJS | VueJS | JavaScript | TypeScript 
 * 💈   Bootstrap | Cybersecurity
 * 🛢   MySQL | PostgreSQL
 * 🖥   Figma
 
-## Technologies
-
-This application is built with :
-* Typescript
-* Reactjs
-* Chakra UI
-* Framer Motion
-* React Icons
